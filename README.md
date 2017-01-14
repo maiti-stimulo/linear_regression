@@ -7,19 +7,19 @@ train = np.hstack((np.ones((n,1)), trainX[:, i:i+1]))
 
 Com funciona np.hstack?
 
->>> a = np.array((1,2,3))
+a = np.array((1,2,3))
 
->>> b = np.array((2,3,4))
+b = np.array((2,3,4))
 
->>> np.hstack((a,b))
+ np.hstack((a,b))
 
 array([1, 2, 3, 2, 3, 4])
 
->>> a = np.array([[1],[2],[3]])
+ a = np.array([[1],[2],[3]])
 
->>> b = np.array([[2],[3],[4]])
+b = np.array([[2],[3],[4]])
 
->>> np.hstack((a,b))
+ np.hstack((a,b))
 
 array([[1, 2],
 
