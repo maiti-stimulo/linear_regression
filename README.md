@@ -15,6 +15,9 @@ b = np.array((2,3,4))
 
 array([1, 2, 3, 2, 3, 4])
 
+
+En el cas que treballem amb matrius.
+
  a = np.array([[1],[2],[3]])
 
 b = np.array([[2],[3],[4]])
