@@ -1,5 +1,6 @@
 # linear_regression
-exerccici weeek 3
+#exerccici weeek 3
+
 Exercici regressio lineal comentat, i amb els links que hem utilitzat per solucionar exercici.
 Comento una de les linies de codi que més m'ha costat d'entrendre per  tenir-ho documentat
 
